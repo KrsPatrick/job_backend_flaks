@@ -1,1 +1,1 @@
-# job_backend_flaks
+# Backend for a Job Platform with Flask, Flask Restful, Postgre SQL, SQL Alchemy
